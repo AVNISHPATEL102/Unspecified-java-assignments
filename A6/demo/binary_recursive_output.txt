@@ -1,0 +1,12 @@
+i = 10, Value = 55, Time Taken = 0
+
+i = 15, Value = 610, Time Taken = 0
+
+i = 20, Value = 6765, Time Taken = 1
+
+i = 25, Value = 75025, Time Taken = 0
+
+i = 30, Value = 832040, Time Taken = 2
+
+i = 35, Value = 9227465, Time Taken = 7
+
