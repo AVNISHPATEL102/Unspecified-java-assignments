@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"PC1","l":"BibCreator"}]
