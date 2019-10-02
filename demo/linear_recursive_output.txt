@@ -1,0 +1,38 @@
+i = 10, Value = 55, Time Taken = 0
+
+i = 15, Value = 610, Time Taken = 0
+
+i = 20, Value = 6765, Time Taken = 0
+
+i = 25, Value = 75025, Time Taken = 0
+
+i = 30, Value = 832040, Time Taken = 0
+
+i = 35, Value = 9227465, Time Taken = 0
+
+i = 40, Value = 102334155, Time Taken = 0
+
+i = 45, Value = 1134903170, Time Taken = 0
+
+i = 50, Value = 12586269025, Time Taken = 0
+
+i = 55, Value = 139583862445, Time Taken = 0
+
+i = 60, Value = 1548008755920, Time Taken = 0
+
+i = 65, Value = 17167680177565, Time Taken = 0
+
+i = 70, Value = 190392490709135, Time Taken = 0
+
+i = 75, Value = 2111485077978050, Time Taken = 0
+
+i = 80, Value = 23416728348467685, Time Taken = 0
+
+i = 85, Value = 259695496911122585, Time Taken = 0
+
+i = 90, Value = 2880067194370816120, Time Taken = 0
+
+i = 95, Value = -4953053512429003327, Time Taken = 0
+
+i = 100, Value = 3736710778780434371, Time Taken = 0
+
